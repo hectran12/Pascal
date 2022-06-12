@@ -6,7 +6,7 @@ begin
 
     case (cNumber) of
         1 : begin
-            write('this is cc');
+            write('this is 1');
         end;
         else
             write('Quen default đi e');
