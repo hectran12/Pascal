@@ -1,4 +1,4 @@
-program repeat_until;
+program breakne;
 
 var
     i : integer;
